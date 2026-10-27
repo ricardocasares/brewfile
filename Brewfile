@@ -12,6 +12,7 @@ cask 'stats'
 cask "ghostty"
 cask "google-chrome"
 cask "zed"
+cask "betterdisplay"
 cask "visual-studio-code"
 tap "abue-ammar/tinycast", trusted: true
 cask "abue-ammar/tinycast/tinycast"
