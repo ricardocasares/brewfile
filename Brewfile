@@ -11,6 +11,7 @@ brew "mise"
 cask 'stats'
 cask "ghostty"
 cask "google-chrome"
+cask "telegram"
 cask "zed"
 cask "betterdisplay"
 cask "visual-studio-code"
