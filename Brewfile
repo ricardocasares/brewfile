@@ -8,6 +8,7 @@ cask "font-paper-mono"
 brew "mise"
 
 # applications
+brew 'anomalyco/tap/opencode-v2'
 cask 'stats'
 cask "ghostty"
 cask "google-chrome"
