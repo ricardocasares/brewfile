@@ -20,6 +20,7 @@ cask "tinycast"
 cask "spotify"
 cask "postgres-app"
 cask "postico"
+cask "firefox"
 
 # quicklook
 cask "qlcolorcode"
